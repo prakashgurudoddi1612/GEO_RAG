@@ -9,9 +9,7 @@
 
 ## 🚀 Deployment
 
-🌐 **Live Demo**: [Click here to try it out]([https://your-deployment-link.com](https://georag-geazkvkcfd59vznr34mvcb.streamlit.app/))
-
-> Replace the above link with your actual deployment URL once it's live.
+🌐 **Live Demo**: [Click here to try it out](https://georag-geazkvkcfd59vznr34mvcb.streamlit.app/)
 
 ---
 
