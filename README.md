@@ -90,7 +90,7 @@ __pycache__/
 
 GitHub: @prakashgurudoddi1612
 
-LinkedIn: LinkedIn Profile
+LinkedIn:[ LinkedIn Profile](https://www.linkedin.com/in/guru-prakash1516/)
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -102,4 +102,5 @@ Edit
 ---
 
 Let me know if you want me to include badges for build, deployment status, or if you're deploying via
+
 
