@@ -1,0 +1,11 @@
+streamlit
+geopandas
+shapely
+rasterio
+sentence-transformers
+faiss-cpu
+transformers
+torch
+pandas
+Pillow
+requests

@@ -1,0 +1,419 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5946, 12.9716] },
+      "properties": {
+        "name": "Bangalore Palace",
+        "description": "A historic palace with Tudor-style architecture located in Bangalore.",
+        "category": "historic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5900, 12.9780] },
+      "properties": {
+        "name": "Cubbon Park",
+        "description": "A major park and green space in the heart of Bangalore city.",
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5990, 12.9800] },
+      "properties": {
+        "name": "Vidhana Soudha",
+        "description": "The seat of the state legislature of Karnataka.",
+        "category": "government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6050, 12.9680] },
+      "properties": {
+        "name": "M. Chinnaswamy Stadium",
+        "description": "A famous cricket stadium located in Bangalore.",
+        "category": "sports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5944, 12.9600] },
+      "properties": {
+        "name": "Lalbagh Botanical Garden",
+        "description": "18th-century botanical garden with a glasshouse inspired by London's Crystal Palace.",
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6074, 12.9719] },
+      "properties": {
+        "name": "Indian Institute of Science",
+        "description": "Premier research institute and university located in Bangalore.",
+        "category": "education"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6200, 12.9735] },
+      "properties": {
+        "name": "Commercial Street",
+        "description": "Popular shopping destination with numerous clothing shops and eateries.",
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5858, 12.9689] },
+      "properties": {
+        "name": "Visvesvaraya Industrial and Technological Museum",
+        "description": "Interactive science museum named after Sir M Visvesvaraya.",
+        "category": "museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6611, 12.9304] },
+      "properties": {
+        "name": "Bannerghatta National Park",
+        "description": "Wildlife reserve and zoo south of Bangalore, famous for tiger safari.",
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6245, 12.9493] },
+      "properties": {
+        "name": "ISKCON Temple Bangalore",
+        "description": "Famous Krishna temple known for its intricate architecture and spiritual activities.",
+        "category": "religious"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6144, 12.9714] },
+      "properties": {
+        "name": "UB City",
+        "description": "Upscale commercial complex with shops, restaurants, and offices.",
+        "category": "commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5981, 12.9488] },
+      "properties": {
+        "name": "Brigade Road",
+        "description": "Bustling street known for shopping, cafes, and nightlife.",
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5939, 12.9721] },
+      "properties": {
+        "name": "St. Mark's Cathedral",
+        "description": "Historic cathedral built in the Neo-Classical style dating back to the early 19th century.",
+        "category": "religious"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6025, 12.9653] },
+      "properties": {
+        "name": "National Gallery of Modern Art",
+        "description": "Museum housing modern and contemporary Indian art.",
+        "category": "museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6785, 12.9121] },
+      "properties": {
+        "name": "Jayamangala Park",
+        "description": "Popular open green-space for jogging and picnics.",
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6305, 12.9387] },
+      "properties": {
+        "name": "HAL Aerospace Museum",
+        "description": "A museum featuring aircraft exhibits and Indian aviation history.",
+        "category": "museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6163, 12.9250] },
+      "properties": {
+        "name": "Sadashiva Nagar",
+        "description": "Residential locality known for its tree-lined streets and upscale homes.",
+        "category": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6480, 12.9692] },
+      "properties": {
+        "name": "Hebbal Lake",
+        "description": "A scenic lake area with walking paths and bird watching.",
+        "category": "natural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6676, 12.9468] },
+      "properties": {
+        "name": "Manyata Tech Park",
+        "description": "Major IT park and business center in Bangalore.",
+        "category": "commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6174, 12.9796] },
+      "properties": {
+        "name": "Kempegowda Bus Station (Majestic)",
+        "description": "Major bus transit hub and market place.",
+        "category": "transport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6060, 12.9817] },
+      "properties": {
+        "name": "Tipu Sultan's Summer Palace",
+        "description": "Historic palace built in Indo-Islamic architecture style.",
+        "category": "historic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6400, 12.9567] },
+      "properties": {
+        "name": "Sadashivanagar Market",
+        "description": "Local market serving residents with fresh produce and goods.",
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6772, 12.9801] },
+      "properties": {
+        "name": "Lumbini Gardens",
+        "description": "A lakeside park featuring boating and amusement rides.",
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5668, 13.0007] },
+      "properties": {
+        "name": "Electronic City",
+        "description": "One of India's largest electronic industrial parks and IT hubs.",
+        "category": "commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5886, 12.9544] },
+      "properties": {
+        "name": "Forum Mall Koramangala",
+        "description": "Popular shopping mall offering fashion, food, and entertainment.",
+        "category": "commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5748, 12.9596] },
+      "properties": {
+        "name": "Sri Bhavaneshwari Temple",
+        "description": "Famous Hindu temple dedicated to Goddess Bhavani.",
+        "category": "religious"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5755, 12.9700] },
+      "properties": {
+        "name": "Indira Gandhi Musical Fountain Park",
+        "description": "Park featuring a large musical fountain show.",
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6156, 12.9691] },
+      "properties": {
+        "name": "Chitra Kala Parishath",
+        "description": "Art gallery and cultural center promoting Indian arts and crafts.",
+        "category": "museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6009, 12.9571] },
+      "properties": {
+        "name": "Sankey Tank",
+        "description": "Popular lake with jogging track and boating facilities.",
+        "category": "natural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5479, 12.9568] },
+      "properties": {
+        "name": "Jayanagar Shopping Complex",
+        "description": "Large shopping district and marketplace in South Bangalore.",
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5776, 12.9784] },
+      "properties": {
+        "name": "Sri Krishna Temple",
+        "description": "A historic temple famous for its ornate architecture.",
+        "category": "religious"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6202, 12.9605] },
+      "properties": {
+        "name": "Vikasa Soudha",
+        "description": "An important administrative building and public hall.",
+        "category": "government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6115, 12.9486] },
+      "properties": {
+        "name": "NR Plaza",
+        "description": "Popular mall featuring shops, cinemas, and eateries.",
+        "category": "commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6131, 12.9588] },
+      "properties": {
+        "name": "HAL Heritage Centre and Aerospace Museum",
+        "description": "Displays aerospace heritage of India and HAL's aircraft.",
+        "category": "museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5803, 12.9824] },
+      "properties": {
+        "name": "City Railway Station",
+        "description": "Central railway station serving Bangalore city.",
+        "category": "transport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6573, 12.9520] },
+      "properties": {
+        "name": "Hebbal Flyover",
+        "description": "Important traffic flyover connecting city to the airport.",
+        "category": "infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5909, 12.9635] },
+      "properties": {
+        "name": "National College",
+        "description": "One of the oldest colleges in Bangalore offering various courses.",
+        "category": "education"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6011, 12.9734] },
+      "properties": {
+        "name": "Richmond Town",
+        "description": "A residential and commercial neighborhood with a colonial legacy.",
+        "category": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6214, 12.9770] },
+      "properties": {
+        "name": "Cubbon Police Station",
+        "description": "Famous police station known locally.",
+        "category": "government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6081, 12.9531] },
+      "properties": {
+        "name": "Bangalore Fort",
+        "description": "Historical fort built by Kempegowda, now a heritage site.",
+        "category": "historic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6294, 12.9676] },
+      "properties": {
+        "name": "Sankey Circle",
+        "description": "Busy commercial hub with offices, banks and businesses.",
+        "category": "commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5846, 12.9455] },
+      "properties": {
+        "name": "Commercial Complex Market",
+        "description": "Popular market for clothes and local goods shopping.",
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5995, 12.9439] },
+      "properties": {
+        "name": "Sankey Tank Park",
+        "description": "Popular lake park, great for walks and bird watching.",
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5943, 12.9472] },
+      "properties": {
+        "name": "City Market",
+        "description": "One of the oldest marketplaces in Bangalore city.",
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5880, 12.9618] },
+      "properties": {
+        "name": "Dustbin Tank Lake",
+        "description": "Small local lake with surrounding park.",
+        "category": "natural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6125, 12.9640] },
+      "properties": {
+        "name": "Ashwaththama Circle",
+        "description": "Traffic circle and landmark in the city.",
+        "category": "infrastructure"
+      }
+    }
+  ]
+}
